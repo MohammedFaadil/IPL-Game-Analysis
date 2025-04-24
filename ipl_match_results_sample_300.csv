@@ -1,0 +1,301 @@
+date,season,team1,team2,venue,toss_winner,toss_decision,winner
+2008-04-18,2008,KKR,RCB,M Chinnaswamy Stadium,RCB,field,KKR
+2008-04-19,2008,CSK,KXIP,Punjab Cricket Association Stadium,KXIP,field,CSK
+2008-04-20,2008,RR,DC,Sawai Mansingh Stadium,RR,bat,RR
+2008-04-20,2008,MI,RCB,Wankhede Stadium,MI,bat,RCB
+2008-04-21,2008,DD,RR,Feroz Shah Kotla,RR,field,RR
+2009-04-18,2009,MI,CSK,Newlands,MI,bat,CSK
+2009-04-19,2009,RCB,RR,Newlands,RR,field,RCB
+2010-03-12,2010,KKR,DC,Eden Gardens,KKR,field,DC
+2011-04-08,2011,CSK,KKR,MA Chidambaram Stadium,KKR,field,CSK
+2012-04-05,2012,MI,CSK,MA Chidambaram Stadium,MI,field,CSK
+2011-05-02,2011,CSK,RR,M Chinnaswamy Stadium,CSK,bat,CSK
+2010-03-11,2010,SRH,PBKS,Wankhede Stadium,SRH,bat,SRH
+2015-03-03,2015,LSG,CSK,Rajiv Gandhi Intl Stadium,LSG,field,LSG
+2022-05-11,2022,SRH,RR,Wankhede Stadium,SRH,field,RR
+2016-03-27,2016,RCB,KKR,Sawai Mansingh Stadium,RCB,bat,KKR
+2011-03-24,2011,DC,SRH,Dr DY Patil Sports Academy,SRH,bat,SRH
+2011-03-22,2011,PBKS,MI,Rajiv Gandhi Intl Stadium,MI,field,PBKS
+2010-03-14,2010,CSK,KKR,Feroz Shah Kotla,CSK,bat,CSK
+2020-05-11,2020,RR,GT,Sawai Mansingh Stadium,RR,field,GT
+2014-03-10,2014,RR,MI,Dr DY Patil Sports Academy,RR,bat,RR
+2022-05-05,2022,PBKS,RR,Rajiv Gandhi Intl Stadium,PBKS,field,PBKS
+2015-05-11,2015,CSK,DC,IS Bindra Stadium,DC,bat,CSK
+2018-05-26,2018,KKR,GT,IS Bindra Stadium,GT,bat,GT
+2012-04-22,2012,KKR,LSG,Rajiv Gandhi Intl Stadium,LSG,field,LSG
+2019-03-09,2019,KKR,RCB,Rajiv Gandhi Intl Stadium,RCB,bat,KKR
+2011-04-27,2011,RCB,SRH,IS Bindra Stadium,RCB,field,SRH
+2022-04-10,2022,LSG,RR,Rajiv Gandhi Intl Stadium,LSG,bat,RR
+2018-03-04,2018,MI,RR,IS Bindra Stadium,MI,field,MI
+2016-03-03,2016,LSG,RCB,Rajiv Gandhi Intl Stadium,LSG,field,LSG
+2012-03-10,2012,DC,RCB,Rajiv Gandhi Intl Stadium,DC,field,RCB
+2008-03-22,2008,MI,DC,Feroz Shah Kotla,MI,bat,MI
+2010-03-23,2010,MI,GT,Eden Gardens,MI,bat,GT
+2013-04-19,2013,RR,LSG,Dr DY Patil Sports Academy,LSG,bat,RR
+2017-04-28,2017,PBKS,DC,Narendra Modi Stadium,DC,bat,PBKS
+2015-03-03,2015,MI,DC,Wankhede Stadium,MI,bat,MI
+2010-04-24,2010,CSK,KKR,Eden Gardens,CSK,field,CSK
+2024-03-20,2024,KKR,RR,Narendra Modi Stadium,KKR,bat,RR
+2015-05-09,2015,GT,PBKS,M Chinnaswamy Stadium,GT,bat,PBKS
+2019-05-03,2019,PBKS,SRH,Narendra Modi Stadium,PBKS,bat,PBKS
+2020-05-08,2020,DC,MI,M Chinnaswamy Stadium,DC,bat,MI
+2012-04-22,2012,PBKS,RCB,Feroz Shah Kotla,RCB,bat,PBKS
+2022-04-10,2022,LSG,MI,Wankhede Stadium,LSG,bat,LSG
+2013-03-22,2013,PBKS,GT,Narendra Modi Stadium,PBKS,field,PBKS
+2013-04-13,2013,PBKS,CSK,IS Bindra Stadium,CSK,field,CSK
+2021-04-27,2021,LSG,GT,MA Chidambaram Stadium,LSG,field,LSG
+2009-03-28,2009,SRH,LSG,Wankhede Stadium,LSG,bat,SRH
+2023-05-18,2023,LSG,SRH,MA Chidambaram Stadium,LSG,bat,LSG
+2010-05-24,2010,SRH,MI,M Chinnaswamy Stadium,MI,bat,SRH
+2009-03-01,2009,SRH,MI,IS Bindra Stadium,MI,field,SRH
+2018-05-13,2018,KKR,RR,IS Bindra Stadium,KKR,field,RR
+2018-05-18,2018,MI,CSK,Narendra Modi Stadium,MI,bat,MI
+2024-03-16,2024,RR,RCB,Sawai Mansingh Stadium,RR,bat,RCB
+2017-05-07,2017,RCB,GT,Rajiv Gandhi Intl Stadium,GT,bat,GT
+2011-04-11,2011,RCB,RR,Eden Gardens,RCB,bat,RR
+2017-04-03,2017,SRH,KKR,Sawai Mansingh Stadium,SRH,field,KKR
+2016-03-27,2016,CSK,MI,IS Bindra Stadium,MI,bat,CSK
+2018-03-16,2018,RCB,RR,MA Chidambaram Stadium,RR,field,RCB
+2011-03-21,2011,MI,RCB,Rajiv Gandhi Intl Stadium,MI,field,MI
+2021-05-14,2021,RCB,CSK,Feroz Shah Kotla,CSK,bat,CSK
+2014-04-02,2014,KKR,MI,Sawai Mansingh Stadium,MI,bat,KKR
+2013-03-10,2013,RCB,PBKS,Wankhede Stadium,RCB,field,PBKS
+2015-03-10,2015,RR,RCB,Eden Gardens,RCB,bat,RCB
+2015-04-06,2015,KKR,GT,Sawai Mansingh Stadium,GT,bat,KKR
+2008-03-10,2008,KKR,PBKS,Sawai Mansingh Stadium,PBKS,bat,PBKS
+2019-04-04,2019,LSG,PBKS,Rajiv Gandhi Intl Stadium,PBKS,bat,LSG
+2016-05-22,2016,RCB,RR,Wankhede Stadium,RCB,field,RR
+2018-04-03,2018,PBKS,LSG,Eden Gardens,LSG,bat,LSG
+2009-04-28,2009,PBKS,CSK,Rajiv Gandhi Intl Stadium,PBKS,field,CSK
+2010-03-26,2010,DC,SRH,Eden Gardens,SRH,field,SRH
+2018-05-18,2018,PBKS,RR,Rajiv Gandhi Intl Stadium,PBKS,bat,RR
+2020-03-05,2020,RCB,RR,IS Bindra Stadium,RCB,field,RR
+2014-05-10,2014,PBKS,DC,Narendra Modi Stadium,DC,field,PBKS
+2024-04-14,2024,GT,RCB,Eden Gardens,RCB,field,GT
+2015-04-22,2015,RR,KKR,M Chinnaswamy Stadium,RR,bat,RR
+2015-03-13,2015,GT,MI,Narendra Modi Stadium,MI,bat,MI
+2023-05-29,2023,PBKS,KKR,MA Chidambaram Stadium,PBKS,bat,KKR
+2015-04-06,2015,RCB,LSG,Narendra Modi Stadium,RCB,bat,RCB
+2022-03-08,2022,RCB,GT,Rajiv Gandhi Intl Stadium,GT,field,GT
+2022-04-23,2022,RCB,GT,Narendra Modi Stadium,GT,bat,GT
+2024-03-29,2024,GT,KKR,Feroz Shah Kotla,KKR,bat,KKR
+2015-05-20,2015,RR,DC,Sawai Mansingh Stadium,RR,bat,RR
+2015-05-01,2015,PBKS,RCB,M Chinnaswamy Stadium,PBKS,field,RCB
+2018-04-30,2018,LSG,GT,IS Bindra Stadium,LSG,bat,GT
+2020-05-25,2020,SRH,CSK,Dr DY Patil Sports Academy,CSK,field,SRH
+2019-05-23,2019,RR,PBKS,IS Bindra Stadium,RR,field,RR
+2016-04-05,2016,PBKS,GT,Wankhede Stadium,GT,field,GT
+2013-04-26,2013,GT,RCB,Dr DY Patil Sports Academy,GT,field,GT
+2010-03-19,2010,PBKS,RCB,Narendra Modi Stadium,PBKS,bat,RCB
+2020-05-08,2020,DC,KKR,Narendra Modi Stadium,KKR,field,KKR
+2016-03-07,2016,PBKS,RR,Eden Gardens,RR,bat,PBKS
+2019-03-05,2019,KKR,MI,Wankhede Stadium,KKR,bat,KKR
+2008-05-04,2008,SRH,RCB,M Chinnaswamy Stadium,SRH,field,SRH
+2014-03-23,2014,GT,RR,Sawai Mansingh Stadium,GT,bat,GT
+2017-05-15,2017,MI,CSK,Feroz Shah Kotla,CSK,field,MI
+2010-03-29,2010,SRH,KKR,Eden Gardens,KKR,bat,SRH
+2019-03-08,2019,LSG,PBKS,Sawai Mansingh Stadium,LSG,field,LSG
+2021-05-23,2021,GT,MI,IS Bindra Stadium,MI,field,GT
+2021-03-23,2021,RCB,LSG,Feroz Shah Kotla,LSG,field,LSG
+2016-05-24,2016,DC,KKR,Eden Gardens,KKR,field,DC
+2022-03-10,2022,SRH,PBKS,Sawai Mansingh Stadium,SRH,field,PBKS
+2013-04-06,2013,GT,KKR,Sawai Mansingh Stadium,KKR,field,KKR
+2016-03-27,2016,LSG,CSK,Rajiv Gandhi Intl Stadium,LSG,bat,LSG
+2021-04-14,2021,GT,LSG,M Chinnaswamy Stadium,LSG,field,LSG
+2008-05-01,2008,MI,RR,M Chinnaswamy Stadium,RR,bat,RR
+2019-05-20,2019,GT,LSG,Rajiv Gandhi Intl Stadium,LSG,field,LSG
+2019-04-05,2019,GT,RR,Feroz Shah Kotla,RR,bat,GT
+2014-03-16,2014,DC,MI,Rajiv Gandhi Intl Stadium,DC,bat,DC
+2023-04-05,2023,RR,LSG,Dr DY Patil Sports Academy,LSG,bat,RR
+2017-04-04,2017,KKR,DC,MA Chidambaram Stadium,DC,bat,KKR
+2016-03-21,2016,CSK,SRH,Rajiv Gandhi Intl Stadium,SRH,bat,SRH
+2011-05-05,2011,CSK,RR,Narendra Modi Stadium,RR,field,RR
+2013-03-26,2013,CSK,RR,Narendra Modi Stadium,CSK,bat,RR
+2023-05-08,2023,MI,CSK,MA Chidambaram Stadium,MI,field,MI
+2015-05-06,2015,MI,LSG,IS Bindra Stadium,MI,field,LSG
+2022-05-02,2022,RR,PBKS,Feroz Shah Kotla,RR,bat,RR
+2014-03-07,2014,RR,MI,MA Chidambaram Stadium,RR,bat,RR
+2013-04-29,2013,CSK,PBKS,Narendra Modi Stadium,PBKS,field,CSK
+2015-05-01,2015,RR,SRH,Narendra Modi Stadium,RR,bat,SRH
+2014-03-17,2014,PBKS,MI,Rajiv Gandhi Intl Stadium,PBKS,bat,MI
+2012-04-21,2012,MI,CSK,MA Chidambaram Stadium,CSK,field,CSK
+2011-05-10,2011,GT,RR,IS Bindra Stadium,RR,field,RR
+2010-03-24,2010,SRH,CSK,IS Bindra Stadium,CSK,field,SRH
+2010-03-16,2010,KKR,CSK,Feroz Shah Kotla,KKR,bat,CSK
+2024-04-14,2024,GT,RR,MA Chidambaram Stadium,RR,field,GT
+2023-04-06,2023,DC,PBKS,Sawai Mansingh Stadium,PBKS,bat,DC
+2018-03-27,2018,PBKS,GT,Feroz Shah Kotla,GT,bat,GT
+2010-05-29,2010,DC,RR,Sawai Mansingh Stadium,DC,field,DC
+2022-05-02,2022,PBKS,CSK,M Chinnaswamy Stadium,CSK,field,CSK
+2009-05-06,2009,KKR,RR,Rajiv Gandhi Intl Stadium,KKR,field,RR
+2023-04-24,2023,MI,CSK,Dr DY Patil Sports Academy,MI,bat,CSK
+2008-03-22,2008,LSG,PBKS,Eden Gardens,LSG,bat,PBKS
+2011-05-06,2011,RCB,GT,Feroz Shah Kotla,GT,field,GT
+2023-04-01,2023,KKR,GT,Rajiv Gandhi Intl Stadium,KKR,field,KKR
+2024-05-21,2024,RCB,MI,Feroz Shah Kotla,MI,field,MI
+2008-05-14,2008,RR,SRH,Dr DY Patil Sports Academy,SRH,bat,SRH
+2023-05-15,2023,DC,SRH,Rajiv Gandhi Intl Stadium,SRH,field,SRH
+2014-03-06,2014,KKR,PBKS,M Chinnaswamy Stadium,PBKS,bat,PBKS
+2023-03-23,2023,PBKS,SRH,MA Chidambaram Stadium,SRH,bat,PBKS
+2024-05-19,2024,SRH,DC,Eden Gardens,DC,bat,DC
+2008-03-04,2008,RCB,PBKS,MA Chidambaram Stadium,RCB,field,PBKS
+2018-05-18,2018,SRH,PBKS,Eden Gardens,PBKS,field,PBKS
+2023-03-31,2023,LSG,CSK,Dr DY Patil Sports Academy,LSG,bat,CSK
+2015-04-08,2015,MI,PBKS,Eden Gardens,MI,field,MI
+2017-03-26,2017,CSK,SRH,Sawai Mansingh Stadium,CSK,field,SRH
+2019-03-07,2019,PBKS,RCB,M Chinnaswamy Stadium,RCB,bat,PBKS
+2013-03-21,2013,MI,PBKS,Dr DY Patil Sports Academy,MI,field,MI
+2015-05-28,2015,GT,RR,Narendra Modi Stadium,RR,bat,RR
+2017-04-25,2017,LSG,RCB,Eden Gardens,RCB,field,RCB
+2021-05-25,2021,RR,GT,Feroz Shah Kotla,RR,field,GT
+2011-05-09,2011,KKR,PBKS,Dr DY Patil Sports Academy,PBKS,field,PBKS
+2008-03-31,2008,PBKS,RR,Wankhede Stadium,PBKS,field,RR
+2015-03-21,2015,SRH,DC,M Chinnaswamy Stadium,SRH,field,SRH
+2011-05-03,2011,CSK,RR,Narendra Modi Stadium,CSK,field,CSK
+2010-04-18,2010,RR,DC,IS Bindra Stadium,RR,bat,RR
+2019-04-08,2019,LSG,SRH,Feroz Shah Kotla,LSG,field,SRH
+2017-05-25,2017,DC,MI,Narendra Modi Stadium,DC,bat,DC
+2020-05-28,2020,LSG,DC,Eden Gardens,DC,bat,DC
+2011-05-02,2011,GT,DC,Feroz Shah Kotla,DC,field,GT
+2015-04-14,2015,GT,CSK,Dr DY Patil Sports Academy,CSK,bat,GT
+2022-03-14,2022,RR,PBKS,Eden Gardens,RR,bat,RR
+2017-03-26,2017,GT,MI,Eden Gardens,GT,bat,MI
+2022-03-14,2022,DC,LSG,IS Bindra Stadium,DC,field,DC
+2023-03-24,2023,SRH,PBKS,Feroz Shah Kotla,SRH,field,SRH
+2022-05-12,2022,GT,KKR,Sawai Mansingh Stadium,GT,field,KKR
+2009-04-24,2009,PBKS,RR,M Chinnaswamy Stadium,PBKS,field,PBKS
+2014-04-22,2014,SRH,CSK,Wankhede Stadium,CSK,bat,SRH
+2014-03-26,2014,MI,LSG,M Chinnaswamy Stadium,MI,bat,LSG
+2012-05-12,2012,SRH,CSK,Feroz Shah Kotla,SRH,bat,CSK
+2013-04-26,2013,MI,CSK,MA Chidambaram Stadium,MI,field,MI
+2018-04-11,2018,CSK,RCB,Feroz Shah Kotla,CSK,bat,RCB
+2024-05-27,2024,MI,SRH,Narendra Modi Stadium,SRH,field,MI
+2022-04-26,2022,LSG,KKR,Dr DY Patil Sports Academy,LSG,field,KKR
+2008-04-08,2008,CSK,GT,IS Bindra Stadium,GT,bat,GT
+2022-04-05,2022,MI,SRH,Sawai Mansingh Stadium,MI,bat,MI
+2016-03-22,2016,SRH,LSG,Sawai Mansingh Stadium,LSG,field,LSG
+2024-03-14,2024,SRH,PBKS,Eden Gardens,SRH,bat,PBKS
+2022-04-19,2022,KKR,PBKS,Sawai Mansingh Stadium,PBKS,field,PBKS
+2011-04-17,2011,DC,PBKS,Sawai Mansingh Stadium,PBKS,field,DC
+2023-03-09,2023,MI,SRH,Eden Gardens,MI,field,MI
+2019-05-13,2019,RCB,LSG,Wankhede Stadium,LSG,bat,LSG
+2019-03-05,2019,PBKS,CSK,Feroz Shah Kotla,CSK,field,PBKS
+2024-05-23,2024,KKR,RCB,Narendra Modi Stadium,KKR,bat,RCB
+2019-03-11,2019,MI,RR,Dr DY Patil Sports Academy,MI,field,MI
+2016-03-15,2016,CSK,RCB,Feroz Shah Kotla,RCB,field,RCB
+2008-04-30,2008,RCB,SRH,Dr DY Patil Sports Academy,SRH,bat,RCB
+2008-03-16,2008,MI,LSG,M Chinnaswamy Stadium,LSG,field,LSG
+2018-05-16,2018,RCB,DC,Feroz Shah Kotla,DC,bat,RCB
+2012-05-06,2012,RCB,CSK,Eden Gardens,CSK,field,CSK
+2023-04-10,2023,SRH,GT,IS Bindra Stadium,GT,bat,SRH
+2019-04-27,2019,PBKS,MI,Feroz Shah Kotla,MI,field,PBKS
+2015-03-07,2015,PBKS,CSK,Wankhede Stadium,PBKS,field,PBKS
+2012-04-07,2012,RR,SRH,Sawai Mansingh Stadium,RR,bat,SRH
+2021-04-07,2021,RCB,SRH,IS Bindra Stadium,RCB,field,RCB
+2020-04-27,2020,CSK,PBKS,Wankhede Stadium,PBKS,bat,PBKS
+2021-04-15,2021,SRH,PBKS,IS Bindra Stadium,PBKS,bat,PBKS
+2008-04-21,2008,DC,RCB,Dr DY Patil Sports Academy,RCB,field,DC
+2021-03-25,2021,MI,KKR,IS Bindra Stadium,KKR,bat,KKR
+2017-04-23,2017,DC,KKR,Sawai Mansingh Stadium,DC,bat,DC
+2024-05-23,2024,LSG,KKR,Sawai Mansingh Stadium,KKR,bat,LSG
+2011-03-02,2011,RCB,RR,M Chinnaswamy Stadium,RCB,bat,RCB
+2013-05-06,2013,GT,SRH,Dr DY Patil Sports Academy,SRH,field,SRH
+2012-05-09,2012,GT,MI,Narendra Modi Stadium,MI,field,MI
+2009-03-12,2009,DC,LSG,Eden Gardens,LSG,field,LSG
+2009-05-06,2009,CSK,DC,Feroz Shah Kotla,CSK,bat,DC
+2022-05-25,2022,SRH,LSG,Wankhede Stadium,LSG,bat,LSG
+2023-04-22,2023,LSG,RCB,Wankhede Stadium,RCB,bat,RCB
+2010-05-12,2010,LSG,RCB,Wankhede Stadium,LSG,field,RCB
+2024-03-26,2024,LSG,RCB,Sawai Mansingh Stadium,RCB,field,RCB
+2021-05-14,2021,DC,CSK,Sawai Mansingh Stadium,DC,field,DC
+2020-05-02,2020,RR,SRH,Dr DY Patil Sports Academy,RR,field,RR
+2012-04-03,2012,DC,RR,IS Bindra Stadium,DC,bat,RR
+2020-03-11,2020,DC,RCB,Rajiv Gandhi Intl Stadium,DC,field,RCB
+2008-03-29,2008,DC,RR,MA Chidambaram Stadium,DC,field,RR
+2014-04-12,2014,KKR,RCB,MA Chidambaram Stadium,KKR,field,KKR
+2024-03-16,2024,LSG,SRH,Wankhede Stadium,SRH,bat,SRH
+2012-04-14,2012,RCB,SRH,Dr DY Patil Sports Academy,RCB,field,RCB
+2021-03-01,2021,DC,KKR,Narendra Modi Stadium,KKR,field,DC
+2015-05-10,2015,RR,GT,M Chinnaswamy Stadium,GT,field,GT
+2017-05-25,2017,PBKS,LSG,Rajiv Gandhi Intl Stadium,LSG,bat,PBKS
+2012-05-09,2012,RR,CSK,Narendra Modi Stadium,CSK,bat,RR
+2017-03-26,2017,MI,RCB,Feroz Shah Kotla,RCB,bat,RCB
+2010-04-18,2010,KKR,GT,Sawai Mansingh Stadium,KKR,field,KKR
+2020-05-13,2020,LSG,DC,M Chinnaswamy Stadium,DC,bat,DC
+2015-03-18,2015,CSK,DC,Eden Gardens,DC,bat,CSK
+2009-04-19,2009,RR,GT,MA Chidambaram Stadium,GT,field,RR
+2010-05-28,2010,CSK,RR,M Chinnaswamy Stadium,CSK,field,CSK
+2017-03-11,2017,KKR,RR,Eden Gardens,KKR,bat,RR
+2022-05-24,2022,MI,SRH,Narendra Modi Stadium,MI,bat,MI
+2017-04-30,2017,PBKS,CSK,Dr DY Patil Sports Academy,CSK,bat,CSK
+2013-03-29,2013,MI,LSG,Sawai Mansingh Stadium,MI,bat,LSG
+2023-05-21,2023,CSK,PBKS,Sawai Mansingh Stadium,PBKS,bat,PBKS
+2010-05-02,2010,DC,KKR,Eden Gardens,KKR,bat,DC
+2019-04-19,2019,LSG,DC,MA Chidambaram Stadium,DC,field,LSG
+2012-04-29,2012,MI,GT,Wankhede Stadium,GT,bat,MI
+2014-03-20,2014,CSK,DC,Feroz Shah Kotla,DC,field,DC
+2009-03-15,2009,KKR,RR,Sawai Mansingh Stadium,KKR,field,RR
+2011-04-06,2011,DC,PBKS,IS Bindra Stadium,PBKS,field,PBKS
+2013-05-14,2013,GT,SRH,Sawai Mansingh Stadium,SRH,bat,SRH
+2010-03-16,2010,PBKS,RCB,Rajiv Gandhi Intl Stadium,RCB,field,PBKS
+2010-04-22,2010,DC,RR,Feroz Shah Kotla,RR,field,DC
+2022-05-15,2022,DC,GT,Wankhede Stadium,GT,field,GT
+2009-05-29,2009,MI,PBKS,Sawai Mansingh Stadium,MI,bat,MI
+2022-04-21,2022,CSK,RCB,Eden Gardens,CSK,field,RCB
+2020-05-29,2020,SRH,CSK,Dr DY Patil Sports Academy,SRH,field,CSK
+2019-03-01,2019,GT,MI,Dr DY Patil Sports Academy,GT,field,MI
+2018-04-28,2018,RR,KKR,Eden Gardens,RR,bat,KKR
+2024-04-01,2024,PBKS,LSG,Eden Gardens,LSG,field,LSG
+2014-04-17,2014,SRH,RR,Narendra Modi Stadium,SRH,bat,SRH
+2010-03-02,2010,GT,RCB,Narendra Modi Stadium,GT,field,RCB
+2010-03-11,2010,LSG,SRH,Feroz Shah Kotla,SRH,bat,LSG
+2019-04-05,2019,LSG,KKR,Eden Gardens,LSG,bat,LSG
+2023-05-25,2023,CSK,DC,Rajiv Gandhi Intl Stadium,DC,field,CSK
+2010-05-20,2010,MI,RR,IS Bindra Stadium,RR,field,RR
+2010-05-18,2010,RCB,DC,Eden Gardens,DC,field,DC
+2012-03-30,2012,LSG,RCB,MA Chidambaram Stadium,RCB,bat,LSG
+2024-03-24,2024,RCB,RR,MA Chidambaram Stadium,RCB,field,RCB
+2019-03-06,2019,LSG,RR,Eden Gardens,RR,bat,RR
+2012-03-24,2012,RR,LSG,Eden Gardens,RR,bat,RR
+2018-05-25,2018,SRH,CSK,Wankhede Stadium,SRH,bat,CSK
+2014-04-25,2014,SRH,PBKS,Dr DY Patil Sports Academy,SRH,field,PBKS
+2017-03-08,2017,GT,KKR,IS Bindra Stadium,KKR,field,GT
+2009-03-09,2009,RCB,GT,IS Bindra Stadium,GT,field,RCB
+2018-05-11,2018,SRH,RCB,Sawai Mansingh Stadium,RCB,field,RCB
+2012-04-17,2012,DC,LSG,Rajiv Gandhi Intl Stadium,DC,field,DC
+2022-05-19,2022,MI,RR,Narendra Modi Stadium,MI,bat,MI
+2009-03-07,2009,RR,PBKS,Dr DY Patil Sports Academy,PBKS,bat,RR
+2018-05-13,2018,SRH,DC,M Chinnaswamy Stadium,SRH,field,DC
+2023-04-21,2023,RR,GT,Wankhede Stadium,RR,field,GT
+2015-05-14,2015,KKR,DC,Wankhede Stadium,KKR,field,DC
+2023-03-13,2023,RR,LSG,Wankhede Stadium,RR,field,RR
+2016-03-13,2016,DC,PBKS,Sawai Mansingh Stadium,DC,field,DC
+2014-05-04,2014,DC,LSG,Feroz Shah Kotla,DC,field,LSG
+2016-04-16,2016,SRH,MI,MA Chidambaram Stadium,SRH,field,MI
+2018-04-23,2018,LSG,DC,MA Chidambaram Stadium,LSG,field,LSG
+2009-03-17,2009,CSK,RCB,Sawai Mansingh Stadium,RCB,field,CSK
+2024-03-26,2024,RCB,DC,Dr DY Patil Sports Academy,DC,bat,DC
+2017-04-21,2017,SRH,DC,Rajiv Gandhi Intl Stadium,DC,field,DC
+2008-05-24,2008,DC,SRH,Eden Gardens,SRH,field,DC
+2023-04-28,2023,RR,KKR,Wankhede Stadium,KKR,bat,KKR
+2012-04-11,2012,KKR,CSK,Dr DY Patil Sports Academy,KKR,bat,KKR
+2022-03-21,2022,DC,PBKS,MA Chidambaram Stadium,PBKS,bat,PBKS
+2024-04-22,2024,SRH,GT,Wankhede Stadium,SRH,bat,GT
+2023-05-13,2023,LSG,PBKS,Sawai Mansingh Stadium,LSG,field,PBKS
+2019-05-10,2019,RR,GT,M Chinnaswamy Stadium,RR,field,GT
+2015-05-06,2015,RR,SRH,M Chinnaswamy Stadium,SRH,field,SRH
+2019-03-20,2019,LSG,RR,Feroz Shah Kotla,LSG,field,RR
+2019-05-09,2019,RCB,RR,Wankhede Stadium,RR,bat,RR
+2022-03-31,2022,RR,GT,M Chinnaswamy Stadium,RR,field,GT
+2012-04-08,2012,MI,KKR,M Chinnaswamy Stadium,MI,bat,MI
+2009-05-05,2009,MI,PBKS,Sawai Mansingh Stadium,PBKS,bat,MI
+2008-05-03,2008,LSG,RCB,IS Bindra Stadium,RCB,field,LSG
+2017-04-06,2017,DC,RR,Wankhede Stadium,DC,bat,DC
+2013-04-12,2013,PBKS,RCB,Wankhede Stadium,RCB,field,PBKS
+2017-05-27,2017,CSK,SRH,Feroz Shah Kotla,CSK,field,SRH
+2022-04-20,2022,LSG,SRH,Narendra Modi Stadium,LSG,field,SRH
+2014-04-13,2014,MI,DC,MA Chidambaram Stadium,DC,field,MI
+2008-03-12,2008,DC,RR,Dr DY Patil Sports Academy,DC,bat,RR
+2021-03-25,2021,LSG,DC,Eden Gardens,DC,bat,LSG
+2012-03-22,2012,GT,DC,M Chinnaswamy Stadium,GT,field,DC
+2015-03-07,2015,GT,RR,Sawai Mansingh Stadium,RR,bat,RR
